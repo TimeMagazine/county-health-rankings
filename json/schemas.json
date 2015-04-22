@@ -1,0 +1,1500 @@
+{
+  "Premature death": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "Unreliable",
+        "Deaths",
+        "Aggregate Population",
+        "YPLL Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Unreliable",
+        "Deaths",
+        "YPLL Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Unreliable",
+        "Deaths",
+        "YPLL Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Deaths",
+        "YPLL Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Deaths",
+        "YPLL Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "# Deaths",
+        "Years of Potential Life Lost Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Poor or fair health": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "Sample Size",
+        "% Fair/Poor",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Sample Size",
+        "% Fair/Poor",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Sample Size",
+        "% Fair/Poor",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Sample Size",
+        "% Fair/Poor",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Sample Size",
+        "% Fair/Poor",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "Sample Size",
+        "% Fair/Poor",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Poor physical health days": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "Sample Size",
+        "Physically Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Sample Size",
+        "Physically Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Sample Size",
+        "Physically Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Sample Size",
+        "Physically Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Sample Size",
+        "Physically Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "Sample Size",
+        "Physically Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Poor mental health days": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "Sample Size",
+        "Mentally Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Sample Size",
+        "Mentally Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Sample Size",
+        "Mentally Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Sample Size",
+        "Mentally Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Sample Size",
+        "Mentally Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "Sample Size",
+        "Mentally Unhealthy Days",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Low birthweight": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "Unreliable",
+        "Sample Size",
+        "% LBW",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Unreliable",
+        "Sample Size",
+        "% LBW",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Unreliable",
+        "LBW Births",
+        "Sample Size",
+        "% LBW",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Unreliable",
+        "LBW Births",
+        "Live Births",
+        "% LBW",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Unreliable",
+        "LBW Births",
+        "Live Births",
+        "% LBW",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "Unreliable",
+        "# Low Birthweight Births",
+        "# Live births",
+        "% LBW",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Adult smoking": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "Sample Size",
+        "% Smokers",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Sample Size",
+        "% Smokers",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Sample Size",
+        "% Smokers",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Sample Size",
+        "% Smokers",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Sample Size",
+        "% Smokers",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "Sample Size",
+        "% Smokers",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Adult obesity": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "% Obese",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "% Obese",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "% Obese",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "% Obese",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "% Obese",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "% Obese",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Binge drinking": {
+    "count": 1,
+    "years": {
+      "2010": [
+        "Sample Size",
+        "% Binge Drinking",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Motor vehicle crash death rate": {
+    "count": 4,
+    "years": {
+      "2010": [
+        "Unreliable",
+        "MV mortality rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Unreliable",
+        "MV mortality rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Unreliable",
+        "Motor Vehicle Deaths",
+        "MV Mortality Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Motor vehicle deaths",
+        "MV Mortality Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Chlamydia rate": {
+    "count": 1,
+    "years": {
+      "2010": [
+        "Cases",
+        "Population",
+        "Rates per 100,000",
+        "Quartile"
+      ]
+    }
+  },
+  "Teen birth rate": {
+    "count": 4,
+    "years": {
+      "2010": [
+        "Teen Births ",
+        "Teen Birth Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Teen Births ",
+        "Teen Birth Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Teen Births ",
+        "Teen Population",
+        "Teen Birth Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Teen Births ",
+        "Teen Population",
+        "Teen Birth Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Uninsured adults": {
+    "count": 2,
+    "years": {
+      "2010": [
+        "% Uninsured",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "% Uninsured",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Primary care provider rate": {
+    "count": 1,
+    "years": {
+      "2010": [
+        "Unreliable",
+        "Population",
+        "PCP No",
+        "PCP Rate",
+        "Quartile"
+      ]
+    }
+  },
+  "Preventable hospital stays": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "No of Medicare enrollees",
+        "ACSC Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "No of Medicare enrollees",
+        "ACSC Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "# Medicare enrollees",
+        "ACSC Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "# Medicare enrollees",
+        "ACSC Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "# Medicare enrollees",
+        "ACSC Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "# Medicare Enrollees",
+        "Preventable Hosp Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Diabetic screening": {
+    "count": 5,
+    "years": {
+      "2010": [
+        "No of Diabetics",
+        "% HbA1c",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "No of Diabetics",
+        "% HbA1c",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "# Diabetics",
+        "% HbA1c",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "# Diabetics",
+        "% HbA1c",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "# Diabetics",
+        "% HbA1c",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Hospice use": {
+    "count": 1,
+    "years": {
+      "2010": [
+        "% Hospice Use",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "High school graduation": {
+    "count": 5,
+    "years": {
+      "2010": [
+        "Enrollment",
+        "Diplomas",
+        "AFGR",
+        "Quartile"
+      ],
+      "2011": [
+        "Under review",
+        "AFGR",
+        "Quartile"
+      ],
+      "2012": [
+        "% AFGR",
+        "Quartile"
+      ],
+      "2013": [
+        "% AFGR",
+        "Quartile"
+      ],
+      "2015": [
+        "Cohort Size",
+        "Graduation Rate",
+        "Z-Score"
+      ]
+    }
+  },
+  "College degrees": {
+    "count": 1,
+    "years": {
+      "2010": [
+        "% College",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Unemployment": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "% unemployed",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "% unemployed",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "# Unemployed",
+        "Labor Force",
+        "% Unemployed",
+        "Quartile"
+      ],
+      "2013": [
+        "# Unemployed",
+        "Labor Force",
+        "% Unemployed",
+        "Quartile"
+      ],
+      "2014": [
+        "# Unemployed",
+        "Labor Force",
+        "% Unemployed",
+        "Quartile"
+      ],
+      "2015": [
+        "# Unemployed",
+        "Labor Force",
+        "% Unemployed",
+        "Z-Score"
+      ]
+    }
+  },
+  "Children in poverty": {
+    "count": 6,
+    "years": {
+      "2010": [
+        "% Children in Poverty",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "% Children in Poverty",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "# Children in Poverty",
+        "% Children in Poverty",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "# Children in Poverty",
+        "% Children in Poverty",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "# Children in Poverty",
+        "% Children in Poverty",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "# Children in Poverty",
+        "% Children in Poverty",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Income inequality": {
+    "count": 2,
+    "years": {
+      "2010": [
+        "GINI",
+        "Quartile"
+      ],
+      "2015": [
+        "80th Percentile Income",
+        "20th Percentile Income",
+        "Income Ratio",
+        "Z-Score"
+      ]
+    }
+  },
+  "Inadequate social support": {
+    "count": 5,
+    "years": {
+      "2010": [
+        "Sample Size",
+        "% No Social-Emotional Support",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Sample Size",
+        "% No Social-Emotional Support",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Sample Size",
+        "% No Social-Emotional Support",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Sample Size",
+        "% No Social-Emotional Support",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Sample Size",
+        "% No Social-Emotional Support",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Single-parent households": {
+    "count": 2,
+    "years": {
+      "2010": [
+        "% Single-Parent Households",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "% Single-Parent Households",
+        "Quartile"
+      ]
+    }
+  },
+  "Violent crime rate": {
+    "count": 4,
+    "years": {
+      "2010": [
+        "Aggregate Population",
+        "Violent Crimes",
+        "Violent Crime Rate",
+        "Quartile"
+      ],
+      "2011": [
+        "Aggregate Population",
+        "Violent Crimes",
+        "Violent Crime Rate",
+        "Quartile"
+      ],
+      "2012": [
+        "Violent Crimes",
+        "Violent Crime Rate",
+        "Quartile"
+      ],
+      "2013": [
+        "Annual Violent Crimes",
+        "Violent Crime Rate",
+        "Quartile"
+      ]
+    }
+  },
+  "Homicide rate": {
+    "count": 2,
+    "years": {
+      "2010": [
+        "Unreliable",
+        "Homicide Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2011": [
+        "Unreliable",
+        "Homicide Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ]
+    }
+  },
+  "Air pollution-particulate matter days": {
+    "count": 3,
+    "years": {
+      "2010": [
+        "PM Days",
+        "Quartile"
+      ],
+      "2011": [
+        "PM Days",
+        "Quartile"
+      ],
+      "2012": [
+        "PM Days",
+        "Quartile"
+      ]
+    }
+  },
+  "Air pollution-ozone days": {
+    "count": 3,
+    "years": {
+      "2010": [
+        "Ozone Days",
+        "Quartile"
+      ],
+      "2011": [
+        "Ozone Days",
+        "Quartile"
+      ],
+      "2012": [
+        "Ozone Days",
+        "Quartile"
+      ]
+    }
+  },
+  "Access to healthy foods": {
+    "count": 3,
+    "years": {
+      "2010": [
+        "Unreliable",
+        "Zip Codes with Healthy Food",
+        "# Zip Codes",
+        "% Healthy Food",
+        "Quartile"
+      ],
+      "2011": [
+        "Unreliable",
+        "Zip Codes with Healthy Food",
+        "# Zip Codes",
+        "% Healthy Food",
+        "Quartile"
+      ],
+      "2012": [
+        "Zip Codes with Healthy Foods",
+        "# Zip Codes",
+        "% Healthy Foods",
+        "Quartile"
+      ]
+    }
+  },
+  "Liquor store density": {
+    "count": 1,
+    "years": {
+      "2010": [
+        "Population",
+        "Liquor Stores",
+        "Liquor Store Rate",
+        "Quartile"
+      ]
+    }
+  },
+  "Excessive drinking": {
+    "count": 5,
+    "years": {
+      "2011": [
+        "Sample Size",
+        "% Excessive Drinking",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "Sample Size",
+        "% Excessive Drinking",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "Sample Size",
+        "% Excessive Drinking",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "Sample Size",
+        "% Excessive Drinking",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "Sample Size",
+        "% Excessive Drinking",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Sexually transmitted infections": {
+    "count": 5,
+    "years": {
+      "2011": [
+        "Under review",
+        "Cases",
+        "Population",
+        "Rates per 100,000",
+        "Quartile"
+      ],
+      "2012": [
+        "Cases",
+        "Rates per 100,000",
+        "Quartile"
+      ],
+      "2013": [
+        "Chlamydia Cases",
+        "Chlamydia Rate",
+        "Quartile"
+      ],
+      "2014": [
+        "Chlamydia Cases",
+        "Chlamydia Rate",
+        "Quartile"
+      ],
+      "2015": [
+        "# Chlamydia Cases",
+        "Chlamydia Rate",
+        "Z-Score"
+      ]
+    }
+  },
+  "Primary care physicians*": {
+    "count": 2,
+    "years": {
+      "2011": [
+        "PCP No",
+        "PCP Rate",
+        "PCP Ratio"
+      ],
+      "2012": [
+        "# PCP",
+        "PCP Rate",
+        "PCP Ratio"
+      ]
+    }
+  },
+  "Previous Primary care physician data--used to calculate rankings*": {
+    "count": 2,
+    "years": {
+      "2011": [
+        "Unreliable",
+        "Population",
+        "PCP No",
+        "PCP Rate",
+        "PCP Ratio",
+        "Quartile"
+      ],
+      "2012": [
+        "# PCP",
+        "PCP Rate",
+        "PCP Ratio",
+        "Quartile"
+      ]
+    }
+  },
+  "Mammography screening": {
+    "count": 5,
+    "years": {
+      "2011": [
+        "Mammography Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2012": [
+        "# Medicare Enrollees",
+        "% Mammography",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "# Medicare Enrollees",
+        "% Mammography",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "# Medicare Enrollees",
+        "% Mammography",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "# Medicare Enrollees",
+        "% Mammography",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Some college": {
+    "count": 5,
+    "years": {
+      "2011": [
+        "PSED Num",
+        "Population",
+        "PSED",
+        "Quartile"
+      ],
+      "2012": [
+        "PSED Num",
+        "Population",
+        "% PSED",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "# Some College",
+        "Population",
+        "% Some College",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "# Some College",
+        "Population",
+        "% Some College",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "# Some College",
+        "Population",
+        "% Some College",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Access to recreational facilities": {
+    "count": 3,
+    "years": {
+      "2011": [
+        "Rec Facs",
+        "Population",
+        "Rec Fac Rate",
+        "Quartile"
+      ],
+      "2012": [
+        "Rec Facs",
+        "Rec Fac Rate",
+        "Quartile"
+      ],
+      "2013": [
+        "# Rec Facilities",
+        "Rec Facility Rate",
+        "Quartile"
+      ]
+    }
+  },
+  "Physical inactivity": {
+    "count": 4,
+    "years": {
+      "2012": [
+        "% Physically Inactive",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "% Physically Inactive",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "% Physically Inactive",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "% Physically Inactive",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Uninsured": {
+    "count": 4,
+    "years": {
+      "2012": [
+        "# Uninsured",
+        "% Uninsured",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "# Uninsured",
+        "% Uninsured",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "# Uninsured",
+        "% Uninsured",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "# Uninsured",
+        "% Uninsured",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Children in single-parent households": {
+    "count": 4,
+    "years": {
+      "2012": [
+        "# Single-Parent Households",
+        "# Households",
+        "% Single-Parent Households",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2013": [
+        "# Single-Parent Households",
+        "# Households",
+        "% Single-Parent Households",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2014": [
+        "# Single-Parent Households",
+        "# Households",
+        "% Single-Parent Households",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "# Single-Parent Households",
+        "# Households",
+        "% Single-Parent Households",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Limited access to healthy foods": {
+    "count": 2,
+    "years": {
+      "2012": [
+        "# Limited Access",
+        "% Limited Access",
+        "Quartile"
+      ],
+      "2013": [
+        "# Limited Access",
+        "% Limited Access",
+        "Quartile"
+      ]
+    }
+  },
+  "Fast food restaurants": {
+    "count": 2,
+    "years": {
+      "2012": [
+        "# Fast Foods",
+        "% Fast Foods",
+        "Quartile"
+      ],
+      "2013": [
+        "# Fast Foods",
+        "% Fast Foods",
+        "Quartile"
+      ]
+    }
+  },
+  "Primary care physicians": {
+    "count": 3,
+    "years": {
+      "2013": [
+        "# PCP",
+        "PCP Rate",
+        "PCP Ratio",
+        "Quartile"
+      ],
+      "2014": [
+        "# PCP",
+        "PCP Rate",
+        "PCP Ratio",
+        "Quartile"
+      ],
+      "2015": [
+        "# Primary Care Physicians",
+        "PCP Rate",
+        "PCP Ratio",
+        "Z-Score"
+      ]
+    }
+  },
+  "Dentists": {
+    "count": 3,
+    "years": {
+      "2013": [
+        "# Dentists",
+        "Dentist Rate",
+        "Dentist Ratio",
+        "Quartile"
+      ],
+      "2014": [
+        "# Dentists",
+        "Dentist Rate",
+        "Dentist Ratio",
+        "Quartile"
+      ],
+      "2015": [
+        "# Dentists",
+        "Dentist Rate",
+        "Dentist Ratio",
+        "Z-Score"
+      ]
+    }
+  },
+  "Daily fine particulate matter": {
+    "count": 1,
+    "years": {
+      "2013": [
+        "Average daily PM25",
+        "Quartile"
+      ]
+    }
+  },
+  "Drinking water safety": {
+    "count": 1,
+    "years": {
+      "2013": [
+        "% pop in viol",
+        "Pop In viol",
+        "Quartile"
+      ]
+    }
+  },
+  "Food environment index": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "Food Environment Index",
+        "Quartile"
+      ],
+      "2015": [
+        "Food Environment Index",
+        "Z-Score"
+      ]
+    }
+  },
+  "Access to exercise opportunities": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "% With Access",
+        "Quartile"
+      ],
+      "2015": [
+        "# With Access",
+        "% With Access",
+        "Z-Score"
+      ]
+    }
+  },
+  "Alcohol-impaired driving deaths": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "# Alcohol-Impaired Driving Deaths",
+        "# Driving Deaths",
+        "% Alcohol-Impaired",
+        "Quartile"
+      ],
+      "2015": [
+        "# Alcohol-Impaired Driving Deaths",
+        "# Driving Deaths",
+        "% Alcohol-Impaired",
+        "Z-Score"
+      ]
+    }
+  },
+  "Teen births": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "Teen Births ",
+        "Teen Population",
+        "Teen Birth Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Quartile"
+      ],
+      "2015": [
+        "Teen Births ",
+        "Teen Population",
+        "Teen Birth Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Mental health providers": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "# MHP",
+        "MHP Rate",
+        "MHP Ratio",
+        "Quartile"
+      ],
+      "2015": [
+        "# Mental Health Providers",
+        "MHP Rate",
+        "MHP Ratio",
+        "Z-Score"
+      ]
+    }
+  },
+  "High school graduation*": {
+    "count": 1,
+    "years": {
+      "2014": [
+        "Cohort size",
+        "Graduation Rate",
+        "Quartile"
+      ]
+    }
+  },
+  "Violent crime": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "Annual Violent Crimes",
+        "Violent Crime Rate",
+        "Quartile"
+      ],
+      "2015": [
+        "# Violent Crimes",
+        "Violent Crime Rate",
+        "Z-Score"
+      ]
+    }
+  },
+  "Injury deaths": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "Injury Deaths",
+        "Injury Death Rate",
+        "Quartile"
+      ],
+      "2015": [
+        "# Injury Deaths",
+        "Injury Death Rate",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Air pollution - particulate matter": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "Average daily PM25",
+        "Quartile"
+      ],
+      "2015": [
+        "Average Daily PM25",
+        "Z-Score"
+      ]
+    }
+  },
+  "Drinking water violations": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "% pop in viol",
+        "Pop In viol",
+        "Quartile"
+      ],
+      "2015": [
+        "Pop In Viol",
+        "% Pop in Viol",
+        "Z-Score"
+      ]
+    }
+  },
+  "Severe housing problems": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "# Households with Severe Problems",
+        "% Severe Housing Problems",
+        "Quartile"
+      ],
+      "2015": [
+        "# Households with Severe Problems",
+        "% Severe Housing Problems",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Driving alone to work": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "# Drive Alone",
+        "Workers",
+        "% Drive Alone",
+        "Quartile"
+      ],
+      "2015": [
+        "# Drive Alone",
+        "# Workers",
+        "% Drive Alone",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Long commute - driving alone": {
+    "count": 2,
+    "years": {
+      "2014": [
+        "Workers who Drive Alone",
+        "Long Commute - Drives Alone",
+        "Quartile"
+      ],
+      "2015": [
+        "# Workers who Drive Alone",
+        "% Long Commute - Drives Alone",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Diabetic monitoring": {
+    "count": 1,
+    "years": {
+      "2015": [
+        "# Diabetics",
+        "% Receiving HbA1c",
+        "95% CI - Low",
+        "95% CI - High",
+        "Z-Score"
+      ]
+    }
+  },
+  "Social associations": {
+    "count": 1,
+    "years": {
+      "2015": [
+        "# Associations",
+        "Association Rate",
+        "Z-Score"
+      ]
+    }
+  }
+}

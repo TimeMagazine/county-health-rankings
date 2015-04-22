@@ -10,6 +10,10 @@ The Excel files that live in the `excel` directory were downloaded from [countyh
 
 ##Usage
 
-To convert the Excel files to JSON, run this command:
+We've already converted the Excel files into nested JSON files by year, available in the `json` directory. You can easily recreate this step with the following command:
 
-	
+	./parse_xls_files.json
+
+To get data for each county for each year, just pass the name of the dataset and the field you want:
+
+	./extract.js --dataset='Adult smoking' --field='% Smokers' > data/smoking.json

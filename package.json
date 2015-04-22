@@ -1,23 +1,22 @@
 {
-  "name": "county_health_rankings_2015",
-  "version": "0.0.0",
-  "description": "",
-  "repository": {},
-  "dependencies": {
-    "browserify": "~5.11.1",
-    "browsernizr": "~1.0.2",
-    "node-csvify": "~0.0.2",
-    "node-lessify": "~0.0.3",
-    "node-underscorify": "~0.0.12",
-    "time-interactive": "0.0.7",
-    "xlsjs": "^0.7.5"
+  "name": "county_health_rankings",
+  "version": "0.0.1",
+  "description": "Parse the County Health Rankings into a sane data format",
+  "main": "extract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "scripts": {},
-  "browserify": {
-    "transform": [
-      "node-lessify",
-      "node-underscorify",
-      "node-csvify"
-    ]
+  "repository": {
+    "type": "git",
+    "url": "git@git.time-sandbox.com:timelabs/county_health_rankings_2015.git"
+  },
+  "keywords": [
+    "health"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "xlsjs": "^0.7.5"
   }
 }
